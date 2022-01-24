@@ -3,7 +3,10 @@
     "",
     "\\downloads",
     "\\fixtures",
-    "\\integration"
+    "\\integration",
+    "\\plugins",
+    "\\support"
   ],
+  "SelectedNode": "\\cypress",
   "PreviewInSolutionExplorer": false
 }
